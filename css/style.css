@@ -214,7 +214,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
   margin-top: 32px;
   margin-bottom: 32px;
   line-height: 24px;
-  color: #666666;
+  color: #fff;
 }
 
 /* 협력업체 area */
@@ -251,13 +251,15 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
   width: 50%;
   min-height: 650px;
   text-align: center;
-  color: #fff;
 }
 
 #container section .inner .box.img{
   background-size: cover;
 }
 
+#container section:nth-child(3) .inner .box{
+  color: #fff;
+}
 #container section:nth-child(3) .inner .box.img{
   background: url('../img/section3/bg_img.png') no-repeat center center;
 }
