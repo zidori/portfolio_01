@@ -24,6 +24,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
   overflow: hidden;
   padding: 45px 20px 0;
   box-sizing: border-box;
+  background-color: red;
 }
 
 /* @media screen and (max-width : 1320px) {
@@ -334,6 +335,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
 
 #footer .inner .f_box ul li a{
   line-height: 20px;
+  color: black;
 }
 
 #footer .inner .f_box .tel{
