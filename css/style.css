@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* *{ margin: 0; padding: 0;} --> initial.min 에 있음*/
 html, body{ height: 100% }
-body{ font-family: 'Noto Sans KR', sans-serif; color: #666666; background: red;}
+body{ font-family: 'Noto Sans KR', sans-serif; color: #666666; background: darkgreen;}
 ul,ol{ list-style: none; }
 a{ color: #666666;}
 h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
   overflow: hidden;
   padding: 45px 20px 0;
   box-sizing: border-box;
-  background-color: red;
+  background-color: powderblue;
 }
 
 /* @media screen and (max-width : 1320px) {
@@ -146,8 +146,8 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
 }
 
 .common_btn:hover{
-  background-color: #fff;
-  color: #0055b8;
+  background-color: #darkgreen;
+  color: #fff;
 }
 
 /* section area */
