@@ -206,7 +206,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
 #container section .inner .box_wrap li .items h3{
   font-size: 20px;
   line-height: 20px;
-  color: #252525;
+  color: #fff;
   font-weight: normal;
 }
 
@@ -251,6 +251,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1;} /*--> font 사이즈에 맞추겠다*/
   width: 50%;
   min-height: 650px;
   text-align: center;
+  color: #fff;
 }
 
 #container section .inner .box.img{
